@@ -47,3 +47,24 @@ nav ul li a{
     font-weight: 500;
     
 }
+/* Banner content styling */
+.banner_content{
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 116px 0 50px;
+}
+.banner_title{
+    color: #131313;
+    font-size: 4rem;
+    font-weight: 700;
+}
+.banner_description{
+    color: #727272;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 26px;
+}
+.banner_img{
+    width: 100%;
+}
